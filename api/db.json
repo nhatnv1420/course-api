@@ -1,0 +1,38 @@
+{
+    "courses": [
+        {
+            "id": 138734344,
+            "name": "HTML - CSS",
+            "author": "Son Dang"
+        },
+        {
+            "name": "CSS",
+            "id": 138734345,
+            "author": "Nhat Nguyen"
+        },
+        {
+            "name": "PHP",
+            "id": 138734346,
+            "author": "Son Dang"
+        },
+        {
+            "name": "React",
+            "id": 138734347,
+            "author": "Son Dang"
+        }
+    ],
+    "users": [
+        {
+            "id": 73646452234,
+            "name": "Nhat Nguyen"
+        },
+        {
+            "id": 73646452235,
+            "name": "Hoang Nguyen"
+        },
+        {
+            "id": 73646452236,
+            "name": "Manh Nguyen"
+        }
+    ]
+}
